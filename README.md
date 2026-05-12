@@ -6,6 +6,12 @@
 
 This repository contains the core code and generated figures for the paper *"Validation of the Real-Imaginary Duality Principle in Core Challenges of Computational Biology: From Sequencing by Hybridization to RNA Inverse Folding"* (Liu & Huang, 2026).
 
+## Why This Matters
+
+Classical Eulerian-path assembly is NP-hard in the worst case. For decades, computational biologists have accepted that exact sequence reconstruction requires exponential backtracking or expensive deep-learning models.
+
+This repository contains the first publicly available implementation of an information‑field greedy algorithm that achieves **linear‑time assembly on both perfect and noisy spectra—without any training data, error models, or parameter tuning**.
+
 ## What is inside
 
 | File | Description |
@@ -37,11 +43,13 @@ python complexity_race.py
 
 ## Key findings at a glance
 
-1. **Error‑position determinism**: At 0.1% error rate, coverage ranges from 35% to 100% depending solely on the spatial location of errors—not their total number. This reveals the extreme sensitivity of the information field to local topological breaks and provides a new language for quantitative modeling of mutation effects.
+1. **Linear‑Time Assembly**— The greedy algorithm assembles 5 000 bp in under 5 seconds on a single CPU core. Classical backtracking fails beyond ~1 500 bp even on perfect spectra.
 
-2. **Graceful degradation**: Even at 2% error rate, coverage remains around 83.5%.
+2.**Error‑Position Determinism**— Assembly quality is determined by where errors fall, not by how many there are. At 0.1 % error rate, coverage swings from 35 % to 100 % depending solely on the random seed.
 
-3. **Linear‑time assembly**: The greedy algorithm runs in linear time, while classical backtracking fails beyond ~1500 bp even on perfect spectra.
+3. **Graceful Degradation** — Even at 2 % error rate (far beyond realistic sequencing noise), the algorithm retains ~83.5 % coverage without any parameter tuning.
+
+4. **Unified Axiomatic Foundation** — Both SBH and RNA inverse folding are unified under the Real‑Imaginary Duality Principle, revealing a shared mathematical structure underlying sequence assembly and structural folding.
 
 ---
 
