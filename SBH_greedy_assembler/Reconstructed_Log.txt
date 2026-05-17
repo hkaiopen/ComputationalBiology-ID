@@ -1,0 +1,4 @@
+True sequence: ATGCTAGCTATG
+Observed k‑mers: ['ATG', 'TGC', 'GCT', 'CTA', 'TAG', 'AGC', 'GCT', 'CTA', 'TAT', 'ATG', 'AGC', 'CTA', 'CGA']
+Reconstructed : ATGCTAGCTATG
+Success: True
