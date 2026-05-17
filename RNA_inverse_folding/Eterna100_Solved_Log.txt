@@ -1,0 +1,8 @@
+Loaded 99 Eterna100 puzzles.
+Progress: 20/99, success rate so far: 100.0%
+Progress: 40/99, success rate so far: 95.0%
+Progress: 60/99, success rate so far: 96.7%
+Progress: 80/99, success rate so far: 97.5%
+
+Eterna100 result: 96/99 solved (97.0%)
+Total time: 20.6 s, average: 208.0 ms/puzzle
