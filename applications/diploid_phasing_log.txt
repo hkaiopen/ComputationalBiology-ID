@@ -1,0 +1,8 @@
+First haplotype assembled length: 1000 bp
+  Preview (first 100 bp): GATAGGCATAAGAAGGAGCACGTACTAACGCGGCTGCGCGGAATAAATGTTATCGGAGATCGGGCCAATTACCTGTCTTAGTGCTACGAAAGCTATCGCC...
+  Evaluation: best matches haplotype B, LCS = 479 bp, similarity to A = 0.013, to B = 0.479
+Remaining k‑mers after first round: 978
+Second haplotype assembled length: 998 bp
+  Preview (first 100 bp): GATAGGCATAAGATGGAGCACGTACTAACGCGGCTGCGCGGAATAAATGTTATCGGAGATCGGGCCAATTACCTGTCTTAGTGCTACGAAAGCTATCGCC...
+  Evaluation: best matches haplotype A, LCS = 479 bp, similarity to A = 0.480, to B = 0.013
+[Finished in 3.9s]
