@@ -1,0 +1,7 @@
+Reference assembly length: 500 bp
+Similarity to reference: 1.0000
+Remaining k‑mers: 486
+Mutant assembly length: 500 bp
+Similarity to mutated genome: 1.0000
+Longest common substring with mutated: 500 bp
+[Finished in 1.8s]
