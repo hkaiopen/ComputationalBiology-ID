@@ -1,0 +1,4 @@
+Reference: 5000 bp, k=11, error=0.02
+Time: 12.04 s
+Length: 4178 bp, coverage: 83.51%
+Longest match: 535 bp

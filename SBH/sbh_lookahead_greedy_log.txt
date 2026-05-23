@@ -1,0 +1,5 @@
+Reference length: 5000 bp, k=11, error rate: 0.02
+Assembly time: 11.46 s
+Reconstructed length: 4179 bp
+k-mer coverage: 83.53%
+Longest contiguous match: 535 bp
