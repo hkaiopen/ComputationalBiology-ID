@@ -2,8 +2,8 @@
 
 This repository contains the official implementation of the algorithms described in:
 
-> **An Information‑Field Greedy Algorithm for Linear‑Time DNA Assembly and RNA Inverse Folding**  
-> *Hongkui Liu, Kai Huang* (2026)
+> **Validation of the Real-Imaginary Duality Principle in Core Challenges of Computational Biology: From Sequencing by Hybridization to RNA Inverse Folding** 
+> [*Hongkui Liu, Kai Huang* (2026)](https://doi.org/10.5281/zenodo.20057468)
 
 The work introduces a unified **Real‑Imaginary Duality Principle** that solves two NP‑hard problems – Sequencing by Hybridization (SBH) and RNA inverse folding – exactly and in linear time, without training data or parameter tuning.
 
@@ -32,17 +32,18 @@ All other SBH scripts in the `SBH/` directory are **supplementary validation or 
 
 ```
 ComputationalBiology-ID/
-├── SBH/                               # DNA assembly (SBH) algorithms
-│   ├── sbh_greedy_assembler.py        # ★ CORE ALGORITHM ★
-│   ├── sbh_lookahead_greedy.py        # Lookahead variant (diffusion term)
-│   ├── sbh_full_gl_dynamics.py        # Full GL dynamics with backtracking
-│   ├── sbh_error_position_scan.py     # 0.1% error‑position determinism
-│   ├── complexity_race.py             # Linear vs. exponential runtime
-│   └── ... (additional logs / tests)
-├── RNA_inverse_folding/               # RNA secondary structure design
-│   ├── rna_inverse_folding.py         # Free‑energy gradient flow solver
-│   └── Eterna100_Solved_Log.txt       # 96/99 puzzles solved (97.0%)
-└── README.md                          # This file
+├── SBH/                                   # DNA assembly (SBH) algorithms
+│   ├── sbh_greedy_assembler.py            # ★ CORE ALGORITHM ★ (linear-time greedy)
+│   ├── sbh_lookahead_greedy.py            # Lookahead variant (diffusion term)
+│   ├── sbh_full_gl_dynamics.py            # Full GL dynamics with backtracking
+│   ├── sbh_error_scan.py                  # Error rate vs. coverage scan (Table 1)
+│   ├── sbh_error_position_scan.py         # 0.1% error-position determinism (seeds)
+│   ├── complexity_race.py                 # Linear vs. exponential runtime (Fig. 1)
+│   └── ... (logs, test outputs)
+├── RNA_inverse_folding/                   # RNA secondary structure design
+│   ├── rna_inverse_folding.py             # Free-energy gradient flow solver
+│   └── Eterna100_Solved_Log.txt           # 96/99 puzzles solved (97.0%)
+└── README.md                              # Updated documentation
 ```
 
 ---
