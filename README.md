@@ -4,8 +4,8 @@
 
 This repository contains the official implementation of the algorithms described in:
 
-> **Validation of the Real-Imaginary Duality Principle in Core Challenges of Computational Biology: From Sequencing by Hybridization to RNA Inverse Folding**
-> _Hongkui Liu, Kai Huang_ (2026)
+> **Constraint-Space Coupling in DNA Assembly and RNA Inverse Folding**
+> _Hongkui Liu, Kai Huang_ (2026)  (https://doi.org/10.5281/zenodo.20057468)
 
 Within the constraint-space framework, two coupling rules are implemented:
 
@@ -396,9 +396,7 @@ Install for `Update/`:
 
 If you use this code, please cite:
 
-> Liu, H., Huang, K. (2026). *Validation of the Real-Imaginary Duality
-> Principle in Core Challenges of Computational Biology: From Sequencing
-> by Hybridization to RNA Inverse Folding.* (https://doi.org/10.5281/zenodo.20057468)
+> Liu, H., Huang, K. (2026). *Constraint-Space Coupling in DNA Assembly and RNA Inverse Folding* (https://doi.org/10.5281/zenodo.20057468)
 
 ---
 
