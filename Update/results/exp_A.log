@@ -1,0 +1,18 @@
+Log: results/exp_A_20260927_120719.log
+ViennaRNA: 2.7.2
+
+======================================================================
+EXPERIMENT A: Temperature stability
+======================================================================
+Puzzle: [CloudBeta] An Arm and a Leg 1.0    .....
+Length: 58, helices: 7
+
+T=0.50  exact=36.77%  basin=27.0%  dist=2.85  (242s)
+T=0.75  exact=38.08%  basin=26.0%  dist=2.88  (241s)
+T=1.00  exact=36.25%  basin=31.0%  dist=2.85  (239s)
+T=1.50  exact=26.15%  basin=16.0%  dist=3.21  (242s)
+T=2.00  exact=26.77%  basin=18.0%  dist=3.31  (243s)
+
+Total: 1207s
+Wrote results/exp_A_temperature_stability.csv
+Wrote results/exp_A_T1_per_seed.csv
