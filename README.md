@@ -1,6 +1,18 @@
-# Computational Biology-ID: Information-Field Greedy Algorithms
+# Computational Biology-ID: An Information-Dynamics Framework for DNA Assembly and RNA Design
 
-> **No pretraining, no external data.** Our constraint-space sampler exactly solves Eterna100 RNA inverse-folding puzzles up to **387 nt** in the full ViennaRNA Turner model, and reaches **100% structural accuracy (≤ 3 base pairs)** on all moderate-complexity puzzles (4–7 helices). Benchmarked on the full 96-puzzle Eterna100 set in **98 minutes on a single CPU** — a 14.6× speed advantage over DesiRNA (24 h).
+> **No pretraining, no external data.** Our constraint-space sampler ...
+
+This repository contains the official implementation of the algorithms described in:
+
+> **Validation of the Real-Imaginary Duality Principle in Core Challenges of Computational Biology: From Sequencing by Hybridization to RNA Inverse Folding**
+> _Hongkui Liu, Kai Huang_ (2026)
+
+Within the constraint-space framework, two coupling rules are implemented:
+
+- **Greedy selection** (`SBH/`, `RNA_inverse_folding/`): at each step, accept only the direction that locally improves an energy or fuel metric. This is the original framework of the paper and yields linear-time assembly and fast inverse folding.
+- **Metropolis-Hastings sampling** (`Update/`): accept or reject mutations with a Boltzmann probability. This allows the sampler to escape local minima and yields substantially better results under the full Turner model, as benchmarked on Eterna100.
+
+Both coupling rules share the same three-component structure (constraint space, real space, coupling), and the choice between them is a design decision that depends on the problem's local landscape.
 
 This repository contains the official implementation of the algorithms described in:
 
