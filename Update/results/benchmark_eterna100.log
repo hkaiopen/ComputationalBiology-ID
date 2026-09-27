@@ -1,0 +1,240 @@
+======================================================================
+Eterna100 Benchmark (Full Turner Model)
+======================================================================
+Timestamp  : 2026-09-27T16:42:31
+ViennaRNA  : 2.7.2
+Temperature: 1.0
+Seed       : 42
+MH steps   : 3000 (burn-in 800, samples 300)
+Workers    : 2
+Lambda     : 5.0
+
+Loaded 96 puzzles (no length cap)
+Length range: 12 – 400 nt
+
+Full puzzle list:
+  [ 1] L=  12  H= 2  G-C Placement
+  [ 2] L=  16  H= 2  Simple Hairpin
+  [ 3] L=  17  H= 4  Shortie 4
+  [ 4] L=  24  H= 3  stickshift    ..
+  [ 5] L=  30  H= 4  Small and Easy 6
+  [ 6] L=  30  H= 3  Corner bulge training    .
+  [ 7] L=  30  H= 6  Zigzag Semicircle    ....
+  [ 8] L=  35  H= 4  Frog Foot    ..........
+  [ 9] L=  35  H= 8  Shortie 6
+  [10] L=  35  H=10  Bug 38    .
+  [11] L=  36  H= 4  Prion Pseudoknot - Difficulty Level 0
+  [12] L=  36  H= 6  InfoRNA test 16
+  [13] L=  36  H= 3  Tripod5    ..
+  [14] L=  36  H=12  multilooping fun
+  [15] L=  38  H=16  Worm 1    .......
+  [16] L=  39  H= 4  Branching Loop    .
+  [17] L=  42  H= 6  InfoRNA bulge test 9
+  [18] L=  50  H= 7  Misfolded Aptamer
+  [19] L=  52  H= 7  U    .....
+  [20] L=  52  H=14  Bug 18    .
+  [21] L=  55  H= 4  Simple Single Bond    ......
+  [22] L=  58  H= 7  [CloudBeta] An Arm and a Leg 1.0    .....
+  [23] L=  62  H=10  The Minitsry
+  [24] L=  62  H=14  Chicken feet    .....
+  [25] L=  63  H= 5  [CloudBeta] 5 Adjacent Stack Multi-Branch Loop
+  [26] L=  63  H= 5  hard Y    .....
+  [27] L=  67  H= 5  square
+  [28] L=  67  H= 8  snoRNA SNORD64
+  [29] L=  69  H= 8  Misfolded Aptamer 6    ......
+  [30] L=  71  H= 8  Loop next to a Multiloop    ..
+  [31] L=  79  H=10  [RNA] Repetitious Sequences 8/10    .
+  [32] L=  80  H=14  Recoil    .....
+  [33] L=  80  H= 5  Multilooping 6    ..
+  [34] L=  84  H=12  Variation of a crop circle    ....
+  [35] L=  91  H=13  just down to 1 bulge    .....
+  [36] L=  91  H=18  Short String 4    ......
+  [37] L=  92  H= 5  Triple Y    .....
+  [38] L=  92  H= 7  7 multiloop
+  [39] L=  93  H=14  Six legd turtle 2    .....
+  [40] L=  93  H=14  Fractile    ............
+  [41] L=  93  H=18  InfoRNA bulge test    .............................
+  [42] L=  93  H=11  Cat's Toy 2    ....
+  [43] L=  93  H=21  Mutated chicken feet    .......
+  [44] L=  95  H=14  Shapes and Energy    ......
+  [45] L=  96  H=16  Kudzu    .....
+  [46] L=  97  H=13  Spiral    .....
+  [47] L=  97  H=10  Flower power    .....
+  [48] L=  97  H= 9  Kyurem 7    .....
+  [49] L=  98  H=12  Water Strider    .....
+  [50] L=  99  H=13  The Gammaretrovirus Signal - Difficulty Level 0    ..
+  [51] L=  99  H=13  Chalk Outline    .....
+  [52] L=  99  H=13  Shape Test    .....
+  [53] L=  99  H= 8  Kyurem 5    .....
+  [54] L= 100  H=14  Six legd Turtle    .....
+  [55] L= 100  H= 8  Tilted Russian Cross    .....
+  [56] L= 100  H=14  Quasispecies 2-2 Loop Challenge    .....
+  [57] L= 100  H=16  "1,2,3and4bulges"    .....
+  [58] L= 100  H=19  Mat - Elements & Sections    .....
+  [59] L= 100  H=11  Hard Y and a bit more    .....
+  [60] L= 108  H=12  Chicken Tracks    ........
+  [61] L= 110  H=10  Crop circle 2
+  [62] L= 111  H=17  Runner    .....
+  [63] L= 111  H=18  Multiloop...
+  [64] L= 114  H=22  Fractal 3    .....
+  [65] L= 116  H=10  Arabidopsis Thaliana 6 RNA - Difficulty Level 0
+  [66] L= 122  H=24  Iron Cross    .
+  [67] L= 146  H=16  loops and stems    .....
+  [68] L= 174  H=20  Adenine
+  [69] L= 181  H=38  Pokeball    ...
+  [70] L= 192  H=15  Human Integrated Adenovirus - Difficulty Level 0
+  [71] L= 199  H=31  Headless Bug on Windshield    .
+  [72] L= 199  H=24  Bullseye    ...
+  [73] L= 208  H=31  Campfire    ....
+  [74] L= 211  H=16  Anemone    ...
+  [75] L= 213  H=18  Mat - Martian 2
+  [76] L= 258  H=36  The Sun
+  [77] L= 279  H=26  Fractal 2    .....
+  [78] L= 282  H=44  Taraxacum officinale
+  [79] L= 284  H=54  Mat - Lot 2-2 B
+  [80] L= 337  H=50  medallion
+  [81] L= 348  H=64  Methaqualone C16H14N2O Structural Representation    ...
+  [82] L= 358  H=96  Cesspool
+  [83] L= 364  H=69  Shooting Star
+  [84] L= 370  H=36  Snowflake 4
+  [85] L= 376  H=42  Teslagon    ......
+  [86] L= 379  H=30  Saccharomyces Cerevisiae - Difficulty Level 0
+  [87] L= 380  H=85  Mat - Cuboid
+  [88] L= 387  H=42  JF1
+  [89] L= 389  H=51  Looking Back Again
+  [90] L= 392  H=66  Thunderbolt
+  [91] L= 393  H=36  Documenting repetitious behavior    .......
+  [92] L= 393  H=60  Snowflake 3
+  [93] L= 395  H=50  Fractal star x5    .....
+  [94] L= 397  H=45  Spiral of 5's
+  [95] L= 398  H=51  Hoglafractal    ..
+  [96] L= 400  H=82  Gladius
+
+======================================================================
+Running benchmark
+======================================================================
+[ 1/96] G-C Placement                    L=  12  H= 2  MFE=OK  uMFE= -  rel=OK  dist= 0  (0.16s)
+[ 2/96] Simple Hairpin                   L=  16  H= 2  MFE=OK  uMFE= -  rel=OK  dist= 0  (0.23s)
+[ 3/96] Shortie 4                        L=  17  H= 4  MFE= -  uMFE= -  rel=OK  dist= 2  (0.25s)
+[ 4/96] stickshift    ..                 L=  24  H= 3  MFE=OK  uMFE= -  rel=OK  dist= 0  (0.39s)
+[ 5/96] Small and Easy 6                 L=  30  H= 4  MFE=OK  uMFE= -  rel=OK  dist= 0  (0.84s)
+[ 6/96] Corner bulge training    .       L=  30  H= 3  MFE=OK  uMFE= -  rel=OK  dist= 0  (0.66s)
+[ 7/96] Zigzag Semicircle    ....        L=  30  H= 6  MFE= -  uMFE= -  rel=OK  dist= 1  (0.7s)
+[ 8/96] Frog Foot    ..........          L=  35  H= 4  MFE=OK  uMFE= -  rel=OK  dist= 0  (0.99s)
+[ 9/96] Shortie 6                        L=  35  H= 8  MFE= -  uMFE= -  rel=OK  dist= 2  (1.09s)
+[10/96] Bug 38    .                      L=  35  H=10  MFE= -  uMFE= -  rel=OK  dist= 2  (1.12s)
+[11/96] Prion Pseudoknot - Difficulty Le L=  36  H= 4  MFE=OK  uMFE= -  rel=OK  dist= 0  (1.36s)
+[12/96] InfoRNA test 16                  L=  36  H= 6  MFE=OK  uMFE= -  rel=OK  dist= 0  (1.2s)
+[13/96] Tripod5    ..                    L=  36  H= 3  MFE=OK  uMFE= -  rel=OK  dist= 0  (1.09s)
+[14/96] multilooping fun                 L=  36  H=12  MFE= -  uMFE= -  rel= -  dist= 7  (1.23s)
+[15/96] Worm 1    .......                L=  38  H=16  MFE= -  uMFE= -  rel=OK  dist= 1  (1.58s)
+[16/96] Branching Loop    .              L=  39  H= 4  MFE= -  uMFE= -  rel=OK  dist= 1  (1.5s)
+[17/96] InfoRNA bulge test 9             L=  42  H= 6  MFE= -  uMFE= -  rel=OK  dist= 1  (1.37s)
+[18/96] Misfolded Aptamer                L=  50  H= 7  MFE= -  uMFE= -  rel=OK  dist= 3  (2.96s)
+[19/96] U    .....                       L=  52  H= 7  MFE= -  uMFE= -  rel=OK  dist= 1  (2.77s)
+[20/96] Bug 18    .                      L=  52  H=14  MFE= -  uMFE= -  rel=OK  dist= 2  (3.38s)
+[21/96] Simple Single Bond    ......     L=  55  H= 4  MFE= -  uMFE= -  rel=OK  dist= 1  (4.19s)
+[22/96] [CloudBeta] An Arm and a Leg 1.0 L=  58  H= 7  MFE=OK  uMFE= -  rel=OK  dist= 0  (4.56s)
+[23/96] The Minitsry                     L=  62  H=10  MFE= -  uMFE= -  rel=OK  dist= 2  (5.31s)
+[24/96] Chicken feet    .....            L=  62  H=14  MFE= -  uMFE= -  rel= -  dist=15  (5.08s)
+[25/96] [CloudBeta] 5 Adjacent Stack Mul L=  63  H= 5  MFE=OK  uMFE= -  rel=OK  dist= 0  (5.44s)
+[26/96] hard Y    .....                  L=  63  H= 5  MFE= -  uMFE= -  rel=OK  dist= 1  (5.17s)
+[27/96] square                           L=  67  H= 5  MFE=OK  uMFE= -  rel=OK  dist= 0  (6.59s)
+[28/96] snoRNA SNORD64                   L=  67  H= 8  MFE=OK  uMFE= -  rel=OK  dist= 0  (7.43s)
+[29/96] Misfolded Aptamer 6    ......    L=  69  H= 8  MFE= -  uMFE= -  rel=OK  dist= 1  (7.88s)
+[30/96] Loop next to a Multiloop    ..   L=  71  H= 8  MFE= -  uMFE= -  rel=OK  dist= 1  (7.4s)
+[31/96] [RNA] Repetitious Sequences 8/10 L=  79  H=10  MFE= -  uMFE= -  rel= -  dist= 4  (9.99s)
+[32/96] Recoil    .....                  L=  80  H=14  MFE=OK  uMFE= -  rel=OK  dist= 0  (10.86s)
+[33/96] Multilooping 6    ..             L=  80  H= 5  MFE= -  uMFE= -  rel=OK  dist= 3  (10.02s)
+[34/96] Variation of a crop circle    .. L=  84  H=12  MFE= -  uMFE= -  rel= -  dist= 5  (13.1s)
+[35/96] just down to 1 bulge    .....    L=  91  H=13  MFE= -  uMFE= -  rel= -  dist= 9  (15.72s)
+[36/96] Short String 4    ......         L=  91  H=18  MFE= -  uMFE= -  rel= -  dist=12  (14.21s)
+[37/96] Triple Y    .....                L=  92  H= 5  MFE=OK  uMFE= -  rel=OK  dist= 0  (14.74s)
+[38/96] 7 multiloop                      L=  92  H= 7  MFE=OK  uMFE= -  rel=OK  dist= 0  (14.39s)
+[39/96] Six legd turtle 2    .....       L=  93  H=14  MFE= -  uMFE= -  rel= -  dist=12  (18.92s)
+[40/96] Fractile    ............         L=  93  H=14  MFE= -  uMFE= -  rel= -  dist=13  (19.54s)
+[41/96] InfoRNA bulge test    .......... L=  93  H=18  MFE= -  uMFE= -  rel=OK  dist= 2  (14.84s)
+[42/96] Cat's Toy 2    ....              L=  93  H=11  MFE= -  uMFE= -  rel= -  dist= 8  (14.98s)
+[43/96] Mutated chicken feet    .......  L=  93  H=21  MFE= -  uMFE= -  rel= -  dist=30  (16.07s)
+[44/96] Shapes and Energy    ......      L=  95  H=14  MFE= -  uMFE= -  rel=OK  dist= 3  (17.42s)
+[45/96] Kudzu    .....                   L=  96  H=16  MFE= -  uMFE= -  rel= -  dist= 6  (16.7s)
+[46/96] Spiral    .....                  L=  97  H=13  MFE=OK  uMFE= -  rel=OK  dist= 0  (15.46s)
+[47/96] Flower power    .....            L=  97  H=10  MFE= -  uMFE= -  rel= -  dist= 9  (16.87s)
+[48/96] Kyurem 7    .....                L=  97  H= 9  MFE= -  uMFE= -  rel= -  dist= 4  (17.49s)
+[49/96] Water Strider    .....           L=  98  H=12  MFE= -  uMFE= -  rel= -  dist= 9  (20.86s)
+[50/96] The Gammaretrovirus Signal - Dif L=  99  H=13  MFE=OK  uMFE= -  rel=OK  dist= 0  (17.89s)
+[51/96] Chalk Outline    .....           L=  99  H=13  MFE= -  uMFE= -  rel=OK  dist= 3  (18.79s)
+[52/96] Shape Test    .....              L=  99  H=13  MFE=OK  uMFE= -  rel=OK  dist= 0  (18.81s)
+[53/96] Kyurem 5    .....                L=  99  H= 8  MFE= -  uMFE= -  rel= -  dist=11  (18.73s)
+[54/96] Six legd Turtle    .....         L= 100  H=14  MFE= -  uMFE= -  rel= -  dist=13  (22.4s)
+[55/96] Tilted Russian Cross    .....    L= 100  H= 8  MFE=OK  uMFE= -  rel=OK  dist= 0  (18.25s)
+[56/96] Quasispecies 2-2 Loop Challenge  L= 100  H=14  MFE= -  uMFE= -  rel=OK  dist= 1  (19.29s)
+[57/96] "1,2,3and4bulges"    .....       L= 100  H=16  MFE= -  uMFE= -  rel= -  dist=20  (21.32s)
+[58/96] Mat - Elements & Sections    ... L= 100  H=19  MFE= -  uMFE= -  rel= -  dist= 4  (18.87s)
+[59/96] Hard Y and a bit more    .....   L= 100  H=11  MFE= -  uMFE= -  rel=OK  dist= 1  (21.97s)
+[60/96] Chicken Tracks    ........       L= 108  H=12  MFE= -  uMFE= -  rel= -  dist= 9  (23.14s)
+[61/96] Crop circle 2                    L= 110  H=10  MFE= -  uMFE= -  rel= -  dist=13  (28.05s)
+[62/96] Runner    .....                  L= 111  H=17  MFE= -  uMFE= -  rel= -  dist=12  (24.29s)
+[63/96] Multiloop...                     L= 111  H=18  MFE= -  uMFE= -  rel=OK  dist= 1  (26.22s)
+[64/96] Fractal 3    .....               L= 114  H=22  MFE= -  uMFE= -  rel= -  dist=24  (29.44s)
+[65/96] Arabidopsis Thaliana 6 RNA - Dif L= 116  H=10  MFE=OK  uMFE= -  rel=OK  dist= 0  (24.59s)
+[66/96] Iron Cross    .                  L= 122  H=24  MFE= -  uMFE= -  rel= -  dist=38  (31.54s)
+[67/96] loops and stems    .....         L= 146  H=16  MFE= -  uMFE= -  rel=OK  dist= 3  (50.24s)
+[68/96] Adenine                          L= 174  H=20  MFE=OK  uMFE= -  rel=OK  dist= 0  (62.9s)
+[69/96] Pokeball    ...                  L= 181  H=38  MFE= -  uMFE= -  rel= -  dist= 8  (81.03s)
+[70/96] Human Integrated Adenovirus - Di L= 192  H=15  MFE= -  uMFE= -  rel= -  dist= 7  (84.15s)
+[71/96] Headless Bug on Windshield    .  L= 199  H=31  MFE= -  uMFE= -  rel= -  dist=17  (97.06s)
+[72/96] Bullseye    ...                  L= 199  H=24  MFE= -  uMFE= -  rel= -  dist=40  (93.9s)
+[73/96] Campfire    ....                 L= 208  H=31  MFE= -  uMFE= -  rel= -  dist=32  (93.4s)
+[74/96] Anemone    ...                   L= 211  H=16  MFE= -  uMFE= -  rel=OK  dist= 3  (106.02s)
+[75/96] Mat - Martian 2                  L= 213  H=18  MFE=OK  uMFE= -  rel=OK  dist= 0  (112.32s)
+[76/96] The Sun                          L= 258  H=36  MFE= -  uMFE= -  rel= -  dist=65  (168.91s)
+[77/96] Fractal 2    .....               L= 279  H=26  MFE= -  uMFE= -  rel= -  dist= 4  (219.65s)
+[78/96] Taraxacum officinale             L= 282  H=44  MFE= -  uMFE= -  rel= -  dist=33  (199.04s)
+[79/96] Mat - Lot 2-2 B                  L= 284  H=54  MFE= -  uMFE= -  rel= -  dist=62  (213.74s)
+[80/96] medallion                        L= 337  H=50  MFE= -  uMFE= -  rel= -  dist=35  (309.32s)
+[81/96] Methaqualone C16H14N2O Structura L= 348  H=64  MFE= -  uMFE= -  rel= -  dist=112  (359.94s)
+[82/96] Cesspool                         L= 358  H=96  MFE= -  uMFE= -  rel= -  dist=104  (433.1s)
+[83/96] Shooting Star                    L= 364  H=69  MFE= -  uMFE= -  rel= -  dist=59  (363.88s)
+[84/96] Snowflake 4                      L= 370  H=36  MFE= -  uMFE= -  rel= -  dist=50  (335.51s)
+[85/96] Teslagon    ......               L= 376  H=42  MFE= -  uMFE= -  rel= -  dist=94  (494.03s)
+[86/96] Saccharomyces Cerevisiae - Diffi L= 379  H=30  MFE= -  uMFE= -  rel= -  dist=32  (490.62s)
+[87/96] Mat - Cuboid                     L= 380  H=85  MFE= -  uMFE= -  rel= -  dist=66  (483.2s)
+[88/96] JF1                              L= 387  H=42  MFE=OK  uMFE= -  rel=OK  dist= 0  (431.16s)
+[89/96] Looking Back Again               L= 389  H=51  MFE= -  uMFE= -  rel= -  dist=62  (462.66s)
+[90/96] Thunderbolt                      L= 392  H=66  MFE= -  uMFE= -  rel= -  dist=60  (524.22s)
+[91/96] Documenting repetitious behavior L= 393  H=36  MFE= -  uMFE= -  rel= -  dist=92  (574.63s)
+[92/96] Snowflake 3                      L= 393  H=60  MFE= -  uMFE= -  rel= -  dist=117  (475.38s)
+[93/96] Fractal star x5    .....         L= 395  H=50  MFE= -  uMFE= -  rel= -  dist=13  (466.68s)
+[94/96] Spiral of 5's                    L= 397  H=45  MFE= -  uMFE= -  rel= -  dist= 5  (501.11s)
+[95/96] Hoglafractal    ..               L= 398  H=51  MFE= -  uMFE= -  rel= -  dist=135  (550.02s)
+[96/96] Gladius                          L= 400  H=82  MFE= -  uMFE= -  rel= -  dist=35  (503.11s)
+
+======================================================================
+Overall summary
+======================================================================
+Puzzles tested     : 96
+MFE solved         : 24/96 (25.0%)
+uMFE solved        : 0/96 (0.0%)
+Relaxed (dist<=3)  : 48/96 (50.0%)
+Mean best distance : 17.38
+Total wall time    : 5906.8 s (98.4 min)
+Mean per puzzle    : 61.53 s
+
+======================================================================
+Layered statistics
+======================================================================
+Layered by length_bin:  bin                          n       MFE      uMFE   Relaxed  MeanDist  --------------------------------------------------------------------  long (L>200)                24   2/24  (  8.3%)    0/24  (  0.0%)    3/24  ( 12.5%)     52.92  medium (100<L<=200)         13   2/13  ( 15.4%)    0/13  (  0.0%)    4/13  ( 30.8%)     13.23  short (L<=100)              59  20/59  ( 33.9%)    0/59  (  0.0%)   41/59  ( 69.5%)      3.83
+Layered by helix_bin:  bin                          n       MFE      uMFE   Relaxed  MeanDist  --------------------------------------------------------------------  complex (H>=8)              73  10/73  ( 13.7%)    0/73  (  0.0%)   25/73  ( 34.2%)     22.66  moderate (4<=H<=7)          18   9/18  ( 50.0%)    0/18  (  0.0%)   18/18  (100.0%)      0.78  simple (H<=3)                5   5/5   (100.0%)    0/5   (  0.0%)    5/5   (100.0%)      0.00
+
+Wrote results/benchmark_eterna100.csv
+Wrote results/benchmark_eterna100_20260927_164231.log
+
+======================================================================
+Comparison with published methods (MFE criterion)
+======================================================================
+Method                                MFE Solved       Runtime
+--------------------------------------------------------------
+DesiRNA (2025)                    100/100 (100%)          24 h
+This work (MFE, strict)              24/96 (25%)      98.4 min
+This work (relaxed, dist<=3)         48/96 (50%)      98.4 min
