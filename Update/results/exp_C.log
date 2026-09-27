@@ -1,0 +1,28 @@
+Log: results/exp_C_20260927_132043.log
+
+
+Error rate = 0.1%
+  Greedy: mean=14.2%
+  Boltzmann T=0.1: mean=9.9%
+  Boltzmann T=0.5: mean=14.0%
+  Boltzmann T=1.0: mean=6.5%
+  Boltzmann T=2.0: mean=12.3%
+  Boltzmann T=5.0: mean=9.5%
+
+Error rate = 0.5%
+  Greedy: mean=3.2%
+  Boltzmann T=0.1: mean=3.2%
+  Boltzmann T=0.5: mean=3.2%
+  Boltzmann T=1.0: mean=2.7%
+  Boltzmann T=2.0: mean=3.2%
+  Boltzmann T=5.0: mean=2.7%
+
+Error rate = 1.0%
+  Greedy: mean=1.7%
+  Boltzmann T=0.1: mean=1.7%
+  Boltzmann T=0.5: mean=1.7%
+  Boltzmann T=1.0: mean=1.7%
+  Boltzmann T=2.0: mean=1.7%
+  Boltzmann T=5.0: mean=1.7%
+
+Wrote results/exp_C_sbh_boltzmann.csv

@@ -1,0 +1,4 @@
+sampler,mean_exact,basin_fraction,mean_dist
+single-site,0.3625,0.31,2.85
+block,0.0,0.0,17.65
+annealing,0.2448,0.15,3.44

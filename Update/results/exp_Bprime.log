@@ -1,0 +1,20 @@
+Log: results/exp_Bprime_20260927_123833.log
+ViennaRNA: 2.7.2
+
+======================================================================
+EXPERIMENT B': Basin structure at L ~ 100 nt
+======================================================================
+
+Puzzle: Six legd Turtle    .....
+  L=100, helices=14
+  exact=0.00%  basin=0.0%  dist=9.57  (839s)
+
+Puzzle: Tilted Russian Cross    .....
+  L=100, helices=8
+  exact=64.76%  basin=52.0%  dist=2.50  (821s)
+
+Puzzle: Quasispecies 2-2 Loop Challenge    .....
+  L=100, helices=14
+  exact=31.52%  basin=50.0%  dist=0.80  (867s)
+
+Total: 2526s

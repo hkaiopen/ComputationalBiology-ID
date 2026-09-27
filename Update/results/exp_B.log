@@ -1,0 +1,25 @@
+Log: results/exp_B_20260927_122730.log
+ViennaRNA: 2.7.2
+
+======================================================================
+EXPERIMENT B: Structural dependence
+======================================================================
+Selected 15 puzzles (L <= 60)
+
+[ 1/15] G-C Placement                L= 12 H= 2 exact=100.0% basin=100.0% (9s)
+[ 2/15] Simple Hairpin               L= 16 H= 2 exact= 99.7% basin=100.0% (13s)
+[ 3/15] Shortie 4                    L= 17 H= 4 exact= 63.5% basin= 66.0% (14s)
+[ 4/15] stickshift    ..             L= 24 H= 3 exact= 99.7% basin=100.0% (23s)
+[ 5/15] Small and Easy 6             L= 30 H= 4 exact=  2.9% basin=  3.0% (40s)
+[ 6/15] Corner bulge training    .   L= 30 H= 3 exact=100.0% basin=100.0% (35s)
+[ 7/15] Zigzag Semicircle    ....    L= 30 H= 6 exact=  0.0% basin=  0.0% (37s)
+[ 8/15] Frog Foot    ..........      L= 35 H= 4 exact= 99.5% basin=100.0% (52s)
+[ 9/15] Shortie 6                    L= 35 H= 8 exact=  1.3% basin=  1.0% (57s)
+[10/15] Bug 38    .                  L= 35 H=10 exact=  0.3% basin=  1.0% (58s)
+[11/15] Prion Pseudoknot - Difficult L= 36 H= 4 exact= 99.0% basin= 99.0% (62s)
+[12/15] InfoRNA test 16              L= 36 H= 6 exact= 99.0% basin=100.0% (55s)
+[13/15] Tripod5    ..                L= 36 H= 3 exact= 96.6% basin= 98.0% (58s)
+[14/15] multilooping fun             L= 36 H=12 exact=  0.0% basin=  0.0% (64s)
+[15/15] Worm 1    .......            L= 38 H=16 exact= 31.1% basin= 49.0% (79s)
+
+Total: 658s

@@ -1,0 +1,4 @@
+name,length,num_helices,max_loop,mean_exact,basin_fraction,mean_dist
+Six legd Turtle    .....,100,14,20,0.0,0.0,9.57
+Tilted Russian Cross    .....,100,8,20,0.6476,0.52,2.5
+Quasispecies 2-2 Loop Challenge    .....,100,14,20,0.3152,0.5,0.8

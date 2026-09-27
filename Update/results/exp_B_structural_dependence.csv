@@ -1,0 +1,16 @@
+name,length,num_helices,max_loop,paired_ratio,mean_exact,basin_fraction,mean_dist
+G-C Placement,12,2,3,0.667,0.9996,1.0,0.0
+Simple Hairpin,16,2,6,0.625,0.9967,1.0,0.0
+Shortie 4,17,4,4,0.471,0.6354,0.66,0.74
+stickshift    ..,24,3,5,0.667,0.997,1.0,0.0
+Small and Easy 6,30,4,9,0.467,0.0285,0.03,3.92
+Corner bulge training    .,30,3,4,0.733,0.9997,1.0,0.0
+Zigzag Semicircle    ....,30,6,4,0.6,0.0,0.0,2.03
+Frog Foot    ..........,35,4,4,0.686,0.9952,1.0,0.02
+Shortie 6,35,8,4,0.457,0.0126,0.01,4.01
+Bug 38    .,35,10,4,0.514,0.0033,0.01,2.2
+Prion Pseudoknot - Difficulty Level 0,36,4,10,0.556,0.99,0.99,0.04
+InfoRNA test 16,36,6,4,0.778,0.99,1.0,0.01
+Tripod5    ..,36,3,5,0.667,0.9659,0.98,0.1
+multilooping fun,36,12,4,0.389,0.0,0.0,6.8
+Worm 1    .......,38,16,4,0.526,0.3115,0.49,0.89

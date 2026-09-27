@@ -1,0 +1,19 @@
+Log: results/exp_D_20260927_132045.log
+ViennaRNA: 2.7.2
+
+======================================================================
+EXPERIMENT D: Sampler robustness
+======================================================================
+Puzzle: [CloudBeta] An Arm and a Leg 1.0    .....
+
+
+Sampler: single-site
+  mean_exact=36.25%  basin=31.0%  dist=2.85  (371s)
+
+Sampler: block
+  mean_exact=0.00%  basin=0.0%  dist=17.65  (534s)
+
+Sampler: annealing
+  mean_exact=24.48%  basin=15.0%  dist=3.44  (372s)
+
+Wrote results/exp_D_sampler_robustness.csv

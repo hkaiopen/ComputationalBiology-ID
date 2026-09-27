@@ -1,0 +1,25 @@
+Log: results/exp_E_20260927_134214.log
+ViennaRNA: 2.7.2
+
+======================================================================
+EXPERIMENT E: Turner model verification
+======================================================================
+Selected 15 short puzzles
+
+G-C Placement                  L= 12 strict=100% relaxed=100%
+Simple Hairpin                 L= 16 strict=100% relaxed=100%
+Shortie 4                      L= 17 strict=80% relaxed=100%
+stickshift    ..               L= 24 strict=100% relaxed=100%
+Small and Easy 6               L= 30 strict=10% relaxed=20%
+Corner bulge training    .     L= 30 strict=100% relaxed=100%
+Zigzag Semicircle    ....      L= 30 strict=0% relaxed=100%
+Frog Foot    ..........        L= 35 strict=100% relaxed=100%
+Shortie 6                      L= 35 strict=10% relaxed=50%
+Bug 38    .                    L= 35 strict=0% relaxed=100%
+Prion Pseudoknot - Difficulty  L= 36 strict=90% relaxed=90%
+InfoRNA test 16                L= 36 strict=100% relaxed=100%
+Tripod5    ..                  L= 36 strict=100% relaxed=100%
+multilooping fun               L= 36 strict=0% relaxed=0%
+Worm 1    .......              L= 38 strict=40% relaxed=100%
+
+Wrote results/exp_E_turner_verification.csv

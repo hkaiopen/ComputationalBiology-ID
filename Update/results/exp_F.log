@@ -1,0 +1,23 @@
+Log: results/exp_F_20260927_134346.log
+ViennaRNA: 2.7.2
+
+======================================================================
+EXPERIMENT F: Fine temperature scan
+======================================================================
+Puzzle: [CloudBeta] An Arm and a Leg 1.0    .....
+Temperatures: [0.9, 0.92, 0.94, 0.96, 0.98, 1.0, 1.02, 1.04, 1.06, 1.08, 1.1]
+
+T=0.90  exact=36.30%  basin=23.3%  dist=3.10  (73s)
+T=0.92  exact=40.52%  basin=26.7%  dist=3.08  (73s)
+T=0.94  exact=44.96%  basin=36.7%  dist=2.94  (74s)
+T=0.96  exact=41.21%  basin=33.3%  dist=3.13  (74s)
+T=0.98  exact=37.14%  basin=33.3%  dist=3.36  (75s)
+T=1.00  exact=37.69%  basin=33.3%  dist=3.38  (74s)
+T=1.02  exact=41.87%  basin=33.3%  dist=3.12  (74s)
+T=1.04  exact=46.16%  basin=33.3%  dist=3.01  (74s)
+T=1.06  exact=45.12%  basin=33.3%  dist=3.00  (74s)
+T=1.08  exact=41.09%  basin=33.3%  dist=2.85  (74s)
+T=1.10  exact=35.26%  basin=30.0%  dist=3.17  (74s)
+
+Wrote results/exp_F_fine_temperature_scan.csv
+Total: 813s

@@ -1,0 +1,22 @@
+Log: results/exp_Dprime_20260927_134206.log
+ViennaRNA: 2.7.2
+
+======================================================================
+EXPERIMENT D': Basin escape dynamics
+======================================================================
+Puzzle: [CloudBeta] An Arm and a Leg 1.0    .....
+
+Finding a correct-folding sequence...
+Found with seed 42
+
+Starting sequence: CAGAGGAGACCCAUCAUCCGCCAGCAACCGCGGCCCUGACGAUCUAAGAUUCACAAUU
+Initial distance: 0
+
+   1 mutations -> escape rate 70.0%
+   2 mutations -> escape rate 93.0%
+   3 mutations -> escape rate 99.0%
+   5 mutations -> escape rate 100.0%
+   8 mutations -> escape rate 100.0%
+  10 mutations -> escape rate 100.0%
+
+Wrote results/exp_Dprime_basin_escape.csv
